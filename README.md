@@ -14,4 +14,5 @@
 - ⚡ Fun fact: no nothing 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SecurityLeader)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SecurityLeader&show_icons=true&theme=radical)
+

@@ -13,3 +13,5 @@
 - 📫 How to reach me: Telrgam : ID ME : @Mr_Rorbot
 - ⚡ Fun fact: no nothing 
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) 
